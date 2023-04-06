@@ -1,0 +1,56 @@
+body{
+    font-family: sans-serif;
+    
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    color: grey;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+.Belgica{
+        font-size: 3em;
+        color: gray;
+}
+.curiosidades{
+        text-align: justify;
+}
+
+p{
+    text-align: justify;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+
+.titulo1{
+    font-family: sans-serif;
+    color: grey;
+    background-color: antiquewhite; 
+    border-radius: 10px;
+
+}
+ul{
+    background-color: rgb(255, 245, 232);
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blueviolet;
+    font-size: 24px;
+
+}
+.bandeira{
+    margin: auto 40%;
+}
+.guerreiros{
+    margin: auto 40%;
+}
+.nextpage{
+    font-size: 20px;
+    background-color: white;
+}
