@@ -1,0 +1,28 @@
+body{
+    text-align: justify;
+    color: grey;
+    font-family: sans-serif;
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    background-color: bisque;
+}
+.scary{
+    margin: auto 40%;
+}
+.seringa{
+    margin: auto 40%;
+}
+.dog{
+    margin: auto 30%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    font-size: 18px;
+    color: red;
+    
+}
